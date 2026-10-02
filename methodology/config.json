@@ -1,0 +1,26 @@
+{
+  "version": "0.1.0",
+  "interview": {
+    "maxQuestions": 5,
+    "minQuestions": 2
+  },
+  "model": {
+    "id": "claude-opus-5-5",
+    "questionEffort": "medium",
+    "analysisEffort": "high"
+  },
+  "thinkingPhrases": {
+    "question": [
+      "Listening for what's underneath",
+      "Separating symptoms from causes",
+      "Finding the one thing to ask"
+    ],
+    "analysis": [
+      "Separating symptoms from causes",
+      "Tracing where the work gets stuck",
+      "Looking for what's quietly multiplying the effort",
+      "Finding the smallest move with the biggest effect",
+      "Drawing the map"
+    ]
+  }
+}
